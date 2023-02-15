@@ -3,6 +3,8 @@ The goal of this project is to create a application that allows employees to add
 
 
 -Technologies: Javacore, Java Swing, JDBC, MySQL
+
+
 -IDE: Apache NetBean
 
 
