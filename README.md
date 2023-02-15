@@ -24,6 +24,8 @@ The goal of this project is to create a application that allows employees to add
 ![EER](https://user-images.githubusercontent.com/125273807/219004315-a38dd47f-2728-4c30-9cd9-d19a47f3383a.png)
 
 -To run this application:
+
 +add jar file in lib folder
+
 +add data to database
 
