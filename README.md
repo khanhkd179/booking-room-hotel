@@ -10,6 +10,7 @@ The goal of this project is to create a application that allows employees to add
 
 
 -Main function:
+
 +Login: Employees should be required to log in before they can access the application.
 
 +Edit room: Employees can edit room information
