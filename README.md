@@ -16,8 +16,8 @@ The goal of this project is to create a application that allows employees to add
 +Edit room: Employees can edit room information
 
 +Add Booking: - Employee search available rooms when choose checkin and checkout date
-
-              - Choose available customer in database or add new customer
+              
+              -Choose available customer in database or add new customer
  
 
 -EER Diagram
